@@ -78,6 +78,100 @@ num3=45
 sum2= num1+num2+num3
 print(sum2/3)"""
 
+# 11.Calculate profit or loss percentage
+
+"""cost_price = 500
+selling_price= 600
+profit_loss= selling_price-cost_price
+print(f"Profit is {profit_loss}")"""
+
+#13. Calculate simple interest 
+"""principal =10000
+rate = 5
+time =2
+Simple_Interest= (principal*rate*time)/100
+print(f"simple interst is {Simple_Interest}")"""
+
+# 14. Calculate tax on income 
+"""income= 500000
+text_rate = 10
+tex= (income*text_rate)/100
+print(f"Tex pay is {tex}")"""
+
+# 15. Calculate percentage increase or decrease
+
+"""initial_value = 200
+final_value = 250 
+Percentage_Change = ((final_value-initial_value)/initial_value)*100
+print(f"final percentage change {Percentage_Change}") """
+
+# 16.Convert boolean to integer
+
+"""input = True
+output=(int(input))
+print(output)"""
+
+# 17.Convert float to string 
+
+"""input = 45.67
+output = str(input)
+print(type(output))"""
+
+# 18.Convert 20°C to Fahrenheit 
+#first thing to solve this 
+
+"""celsius=20
+fahrenheit= (celsius*9/5)+32
+print(f"temperature in fahrenheit {fahrenheit}")"""
+
+# 19.Socound thing to solve this
+""" celsius = float(input("Enter temperature in celsius:- "))
+fahrenheit = (celsius*9/5)+32
+print(f" temperature in fahrenheit is {fahrenheit}")"""
+
+# 20.Convert 50°F to Celsius 
+""" fahrenheit= float(input("Enter temperature in fahrenheit:- "))
+celsius= (fahrenheit-32)*(5/9)
+
+print(f"temperature in celsius is {celsius}")"""
+
+# 21. Convert integer to binary 
+#first method
+"""num1= 25
+output1= bin(num1)[2:]
+print(output1)
+
+# Secound Method
+num1=int(input("Enter a number to change binary :- "))
+output2= bin(num1)[2:]
+print(f"Binery number is {output2}")"""
+# 22.Calculate area of a triangle 
+#first method
+"""
+base= 10
+height= 6
+area= (1/2)*(base*height)
+print(f"Area of Triangle is {area}")
+
+# Secound method
+base1=float(input("Enter base value:- "))
+height1=float(input("Enter height value:- "))
+area1= (1/2)*(base1*height1)
+print(f"Area of Triangle is {area1}") """
+
+# 23.Calculate perimeter of a square 
+# first method
+
+side = 9
+perimeter= side*4
+
+print(perimeter)
+
+# Secound method 
+side1=int(input("Enter number:- "))
+perimeter1= side1*4
+
+print(f"Number of perimeter:- {perimeter1}")
 
 
 

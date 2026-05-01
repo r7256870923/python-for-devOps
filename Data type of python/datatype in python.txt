@@ -22,19 +22,6 @@ From ID i get variable location
 f= STRING FORMENTING
 *= Strict
  GitHub  Commend
-git--version
-Add git : git config --global user.name"r7256870923"
-git config --global user.email "r7256870923@gmail.com"
-git config --list
-git init
-git status (Main command in GitHub use every time in GitHub status)
-git add .
-git commit -m "first commit"
-git branch (kis branch par ho)
-git branch -M main
-git remote add origin https://github.com/r7256870923/python-for-devOps.git
-git remote -v
-git push -u origin main
 
 To type of branch of python
 1.master branch
