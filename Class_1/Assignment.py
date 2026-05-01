@@ -28,8 +28,8 @@ print(f"n1={n1} chart2={chart2}")"""
 
 # 04.Update balance after deposit {I have problum in this code}
 """current_balance=10000
-deposit_balance= int(input("Enter your Deposit amount :-"))
 print("Your current balance is",current_balance)
+deposit_balance= int(input("Enter your Deposit amount :-"))
 print("Your upgrade balance is",current_balance+deposit_balance)"""
 
 # 05.balance after withdrawal
@@ -162,7 +162,7 @@ print(f"Area of Triangle is {area1}") """
 # 23.Calculate perimeter of a square 
 # first method
 
-side = 9
+"""side = 9
 perimeter= side*4
 
 print(perimeter)
@@ -171,7 +171,7 @@ print(perimeter)
 side1=int(input("Enter number:- "))
 perimeter1= side1*4
 
-print(f"Number of perimeter:- {perimeter1}")
+print(f"Number of perimeter:- {perimeter1}")"""
 
 
 

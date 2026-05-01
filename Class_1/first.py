@@ -33,6 +33,21 @@ print(f"{num1} and {num2} = {power}") """
 num1=int(input("enter your number1:"))
 num2=int(input("enter your number2:"))
 result=num1+num2
-print(result)
+print("Result is :-",result)
+
+
+num3= "20"
+num4 = "30"
+rus= int(num3)+int(num4)
+print(rus)
+print(type(rus))
+
+n1=20
+n2=30
+r=str(n1)+str(n2)
+print(r)
+print(type(r))
+
+
 
 
