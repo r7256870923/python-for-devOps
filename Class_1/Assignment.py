@@ -173,6 +173,73 @@ perimeter1= side1*4
 
 print(f"Number of perimeter:- {perimeter1}")"""
 
+# 24.Calculate diameter of a circle 
+
+"""dia_redus= int(input("Enter diametar of a circle:- "))
+diameter = dia_redus*2
+print(f"Diameter is :- {diameter}")"""
+
+# 25. Calculate volume of a cube 
+
+"""cube_side = int(input("Enter Side value:- "))
+value_cube= cube_side**3
+
+print(f"Valume of Cube:- {value_cube}")"""
+
+# 26.Calculate surface area of a cuboid 
+
+"""L= int(input("Enter value of lenght:- "))
+B= int(input("Enter valueof base:- "))
+H= int(input("Enter value of Height:- "))
+
+Surface_area= ((L*B)+(B*H)+(H*L))
+area_s= 2*Surface_area
+
+print(f"Surface of Area:- {area_s}")"""
+
+# 27.Square of sum: (x + y)² 
+
+""" x = int(input("Enter value of x:- "))
+y = int(input("Enter value of y:- "))
+
+z= (x+y)**2
+print(f"Result:- {z}") """
+
+#28.Simplify expression: x² - 4x + 4
+"""
+x = int(input("Enter value of x:- "))
+output1= x**2-4*x+4
+print(f" Solution of on this x² - 4x + 4 :- {output1}") """
+
+# 29.Evaluate: (a + b)(a - b)
+"""
+a1=6
+b1= 2
+o_p=(a1+b1)*(a1-b1)
+print(f"Result is:- {o_p}") """
+
+# 30.Sum of cubes: a³ + b³ 
+"""
+a2= int(input("Enter first number:-"))
+b2= int(input("Enter secound number:-"))
+s_c= a2**3+b2**3
+print(f"Result is :- {s_c}")"""
+
+# 31.Simplify: (x - y)² 
+"""
+a3= int(input("Enter first number:-"))
+b3= int(input("Enter secound number:-"))
+sim = (a3-b3)**2
+
+print(f"Result is :- {sim}") """
+
+# 32.Difference of cubes: x³ - y³ 
+"""
+x3= int(input("Enter first number:-"))
+y3= int(input("Enter secound number:-"))
+
+d_o_c=x3**3-y3**3
+print(f"Result is :- {d_o_c}")"""
 
 
 
