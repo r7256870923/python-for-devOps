@@ -241,6 +241,32 @@ y3= int(input("Enter secound number:-"))
 d_o_c=x3**3-y3**3
 print(f"Result is :- {d_o_c}")"""
 
+# 33.If user input is: 
+
+#first method
+
+user_name= str(input("Enter your name:- "))
+user_age= int(input("Enter your age:- "))
+user_city=str(input("Enter your city name:- "))
+user_hobby= str(input("Enter your hobby:-"))
+
+print(f"Your name :- {user_name}")
+print(f"Your age :- {user_age}")
+print(f"Your City :- {user_city}")
+print(f"Your hobby :- {user_hobby}")
+
+# Secound method
+
+user = {
+    "name": "Rohit Kr Thakur",
+    "age": 24,
+    "city": "Siwan",
+    "hobby": "Reading"
+}
+
+print(user)
+
+
 
 
 
