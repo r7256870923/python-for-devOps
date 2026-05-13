@@ -60,20 +60,20 @@
 # for i in v:
 #     r = i+r
 #     print(r)
-# # "" = r + ""
-# # r = o + r
-# # or
-# # print(r)
+# "" = r + ""
+# r = o + r
+# or
+# print(r)
 
 # v= "python"
 # size = len(v)
 # for i in range (size):
 #     print(v,i)
 
-v= "python"
-size = len(v)
-for i in range(size):
-    print(v[i],v,i)
+# v= "python"
+# size = len(v)
+# for i in range(size):
+#     print(v[i],v,i)
 
 
 
